@@ -6,6 +6,8 @@ import PIL
 import os
 import gdown
 
+# Trigger rebuild
+
 MODEL_PATH = "wastesort_model.h5"
 GDRIVE_FILE_ID = "130sEJBg48KqmY8-sbxjgtY9XS_KKY2SO"
 
