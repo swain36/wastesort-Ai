@@ -1,4 +1,5 @@
 streamlit
-tensorflow==2.10.0
-pillow
+tensorflow==2.13.0
 numpy
+Pillow
+gdown
